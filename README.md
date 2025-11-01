@@ -4,7 +4,7 @@ This bot allows you to trade cryptocurrencies using DeepSeek or other AI models 
 Everything runs locally on your PC, ensuring full security and privacy of your keys.
 ### 🌍语言
 <div align="left">
-  <a href="README.zh-CN">CN 中文</a>
+  <a href="README.zh-CN.md">CN 中文</a>
 </div>
 ---
 <div align="center">
