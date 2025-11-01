@@ -5,6 +5,8 @@ Everything runs locally on your PC, ensuring full security and privacy of your k
 ### 🌍语言
 <div align="left">
   <a href="README.zh-CN.md">CN 中文</a>
+  <a href="README.ko-KR.md">KR 한국어</a>
+  <a href="README.ja-JP.md">JP 日本語</a>
 </div>
 ---
 <div align="center">
